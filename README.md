@@ -1,4 +1,4 @@
-# First and Second Year University Projects
+# First and Second Year University Physics Projects
 
 Each folder contains a separate project with a distinct README.md file which explains the contents of the folder.
 
